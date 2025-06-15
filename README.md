@@ -1,6 +1,6 @@
 # 📊 Dashboard Analítico do Mercado de Ações
 
-Este é um projeto prático desenvolvido durante o curso da **Data Science Academy**, com foco em análise e visualização de dados financeiros utilizando o **Power BI**.
+Este é um projeto prático desenvolvido durante meus estudos em análise de dados, com foco em análise e visualização de dados financeiros utilizando o Power BI.
 
 ## 🧠 Objetivo
 
